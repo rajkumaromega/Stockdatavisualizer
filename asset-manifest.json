@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Stockdatavisualizer/static/css/main.073c9b0a.css",
+    "main.js": "/Stockdatavisualizer/static/js/main.eb8b4cbe.js",
+    "static/js/787.ba279d06.chunk.js": "/Stockdatavisualizer/static/js/787.ba279d06.chunk.js",
+    "static/media/logo.svg": "/Stockdatavisualizer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Stockdatavisualizer/index.html",
+    "main.073c9b0a.css.map": "/Stockdatavisualizer/static/css/main.073c9b0a.css.map",
+    "main.eb8b4cbe.js.map": "/Stockdatavisualizer/static/js/main.eb8b4cbe.js.map",
+    "787.ba279d06.chunk.js.map": "/Stockdatavisualizer/static/js/787.ba279d06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eb8b4cbe.js"
+  ]
+}
